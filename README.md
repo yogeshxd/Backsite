@@ -46,4 +46,5 @@ Future updates will include:
 3. Remote Screenshot
 4. File upload/downlad
 
+# Issues
 **For any issues either open a issue or dm me on [Insta](https://www.instagram.com/yogesh_.xd/)**
