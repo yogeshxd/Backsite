@@ -9,6 +9,7 @@ A reverse_tcp type attack script that can do bunch of different things.
 ```python3 -m pip install -r requirements.txt```
 
 2. Then you need to replace Nost variable with your ip in both attacker.py and client.py.
+
 `Note : You will need to replace Host variable with your external ip and do port fordwarding on your router to attack victims outside your home network.`
 
 3. Leave the port variable as it is if the victim is on your home network else change it to the port number you forwarded.
@@ -19,6 +20,18 @@ A reverse_tcp type attack script that can do bunch of different things.
 After a connection is stablished you will have access to these stuffs:
 
 1. All default cmd commands. (I know you don't know each cmd command that's why I added [cmd.md](/cmd.md) file for you.)
-2. file - `file [File name] [Content]` - creates a file in the working directory.
-3. error - `error [message]` - Shows a error msg on user screen.
+2. file 
+
+`file [File name] [Content]`
+
+creates a file in the working directory.
+
+
+3. error
+
+`error [message]`
+
+Shows a error msg on user screen.
+
+
 4. More to come soon....
