@@ -1,10 +1,10 @@
-cmd command 	           Description
-           Basics:
-call 	                calls a batch file from another one
-cd 	                change directory
-cls 	                clear screen
-cmd 	                start command prompt
-color 	                change console color
+##cmd command 	           Description
+          <h2> Basics: </h2>
+1. call 	                calls a batch file from another one
+2. cd 	                change directory
+3. cls 	                clear screen
+4. cmd 	                start command prompt
+5. color 	                change console color
 date 	                show/set date
 dir 	                list directory content
 echo 	                text output
