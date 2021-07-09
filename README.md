@@ -20,6 +20,9 @@ A reverse_tcp type attack script that can do bunch of different things.
 After a connection is stablished you will have access to these stuffs:
 
 1. All default cmd commands. (I know you don't know each cmd command that's why I added [cmd.md](/cmd.md) file for you.)
+
+```Note : Cmd file is currently not easy to read. Will fix it soon.```
+
 2. file 
 
 `file [File name] [Content]`
@@ -35,3 +38,5 @@ Shows a error msg on user screen.
 
 
 4. More to come soon....
+
+*For any issues either open a issue or dm me on [Insta](https://www.instagram.com/yogesh_.xd/)*
