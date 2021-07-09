@@ -1,7 +1,7 @@
 # Backsite
 A reverse_tcp type attack script that can do bunch of different things.
 
-*First it was supposed to be a closed source project but decided to make it open source because wtf why not?*
+**First it was supposed to be a closed source project but decided to make it open source because wtf why not?**
 
 # Installation and running
 
@@ -39,4 +39,4 @@ Shows a error msg on user screen.
 
 4. More to come soon....
 
-*For any issues either open a issue or dm me on [Insta](https://www.instagram.com/yogesh_.xd/)*
+**For any issues either open a issue or dm me on [Insta](https://www.instagram.com/yogesh_.xd/)**
