@@ -39,4 +39,11 @@ Shows a error msg on user screen.
 
 4. More to come soon....
 
+# Future updates
+Future updates will include:
+1. Multi client handling
+2. Remote audio recording
+3. Remote Screenshot
+4. File upload/downlad
+
 **For any issues either open a issue or dm me on [Insta](https://www.instagram.com/yogesh_.xd/)**
