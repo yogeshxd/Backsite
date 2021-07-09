@@ -1,4 +1,4 @@
-          <h2> Basics: </h2>
+<h2> Basics: </h2>
 1. call - calls a batch file from another one
 2. cd 	                change directory
 3. cls 	                clear screen
