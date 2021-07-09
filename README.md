@@ -1,7 +1,7 @@
 # Backsite
 A reverse_tcp type attack script that can do bunch of different things.
 
-**First it was supposed to be a closed source project but decided to make it open source because wtf why not?**
+**First it was supposed to be a part of [basic.exe](https://github.com/yogeshxd/Basic.exe)  but it deserved it's own repo.**
 
 # Installation and running
 
