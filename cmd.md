@@ -39,7 +39,7 @@ netstat 	   |     display TCP/IP connections and status
 nslookup 	  |      query the DNS
 pathping 	   |     test the connection to a specific IP address
 ping 	      |          pings the network
-route 	                display network routing table, add static routes
+route 	       |         display network routing table, add static routes
 systeminfo 	 |       displays computer-specific properties and configurations
 telnet 	      |          establish Telnet connection
 tftp 	       |         transfer files to a TFTP server
