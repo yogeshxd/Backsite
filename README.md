@@ -46,5 +46,9 @@ Future updates will include:
 3. Remote Screenshot
 4. File upload/downlad
 
+# Update Log:
+10/07/21 - Formated [cmd.md](/cmd.md) to be easy to read.
+09/07/21 - Initial Release (v0)
+
 # Issues
 **For any issues either open a issue or dm me on [Insta](https://www.instagram.com/yogesh_.xd/)**
