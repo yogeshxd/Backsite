@@ -47,7 +47,8 @@ Future updates will include:
 4. File upload/downlad
 
 # Update Log:
-10/07/21 - Formated [cmd.md](/cmd.md) to be easy to read.\n
+10/07/21 - Formated [cmd.md](/cmd.md) to be easy to read.
+
 09/07/21 - Initial Release (v0)
 
 # Issues
