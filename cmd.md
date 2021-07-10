@@ -3,8 +3,8 @@
 | Command | Description |
 | :----: | :----: |
 | call  | calls a batch file from another one |
- cd 	                change directory
- cls 	                clear screen
+| cd	| change directory |
+ |cls 	      |          clear screen|
  cmd 	                start command prompt
  color 	                change console color
  date 	                show/set date
