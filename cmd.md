@@ -1,16 +1,19 @@
 <h2> Basics: </h2>
-1. call - calls a batch file from another one
-2. cd 	                change directory
-3. cls 	                clear screen
-4. cmd 	                start command prompt
-5. color 	                change console color
-date 	                show/set date
-dir 	                list directory content
-echo 	                text output
-exit 	                exits the command prompt or a batch file
-find 	                find files
-hostname 	        display host name
-pause 	                pauses the execution of a batch file and shows a message
+
+| Command | Description |
+| :----: | :----: |
+call calls a batch file from another one
+ cd 	                change directory
+ cls 	                clear screen
+ cmd 	                start command prompt
+ color 	                change console color
+ date 	                show/set date
+ dir 	                list directory content
+ echo 	                text output
+ exit 	                exits the command prompt or a batch file
+ find 	                find files
+ hostname 	        display host name
+ pause 	                pauses the execution of a batch file and shows a message
 runas 	                start a program as another user
 shutdown 	        shutdown the computer
 sort 	                sort the screen output
