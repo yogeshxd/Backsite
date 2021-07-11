@@ -22,7 +22,6 @@ After a connection is stablished you will have access to these stuffs:
 1. All default cmd commands. (I know you don't know each cmd command that's why I added [cmd.md](/cmd.md) file for you.)
 
 ```Note : Cmd file is currently not easy to read. Will fix it soon.
-
 Edit : It's fixed now and you can read it with ezz now ;)```
 
 2. file 
