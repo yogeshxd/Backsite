@@ -43,7 +43,7 @@ Shows a error msg on user screen.
 
 # Future updates
 Future updates will include:
-~1. Multi client handling~ Added in v0.5
+1. ~Multi client handling~ Added in v0.5
 2. Remote audio recording
 3. Remote Screenshot
 4. File upload/downlad
