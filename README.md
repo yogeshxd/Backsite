@@ -41,6 +41,7 @@ Shows a error msg on user screen.
 
 4. Code Intrection commands
  a. list - will list IP addresses and IDs of all the online victims.
+ 
  b. select [id] - will let you select which victim you wanna interact with based on id provided.
 
 # Future updates
