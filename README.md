@@ -8,7 +8,7 @@ A reverse_tcp type attack script that can do bunch of different things.
 1. First run the following command:
 ```python3 -m pip install -r requirements.txt```
 
-2. Then you need to replace Nost variable with your ip in both attacker.py and client.py.
+2. Then you need to replace Host variable with your ip in client.py.
 
 `Note : You will need to replace Host variable with your external ip and do port fordwarding on your router to attack victims outside your home network.`
 
@@ -39,7 +39,9 @@ creates a file in the working directory.
 Shows a error msg on user screen.
 
 
-4. More to come soon....
+4. Code Intrection commands
+ a. list - will list IP addresses and IDs of all the online victims.
+ b. select [id] - will let you select which victim you wanna interact with based on id provided.
 
 # Future updates
 Future updates will include:
