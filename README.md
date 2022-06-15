@@ -63,4 +63,4 @@ Future updates will include:
 09/07/21 - Initial Release (v0)
 
 # Issues
-**For any issues either open a issue or dm me on [Insta](https://www.instagram.com/yogesh_.xd/)**
+**For any issues either open a issue or dm me on [Insta](https://www.instagram.com/xdyogeah/)**
