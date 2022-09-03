@@ -53,7 +53,7 @@ Future updates will include:
 1. ~Multi client handling~ Added in v0.5
 2. Remote audio recording
 3. Remote Screenshot
-4. File upload/downlad
+4. ~File upload/downlad~ Added in v0.5
 
 # Update Log:
 18/07/21 - Added Multi-Victim handling.
