@@ -56,6 +56,8 @@ Future updates will include:
 4. ~File upload/downlad~ Added in v0.5
 
 # Update Log:
+22/09/22 - Added auto hide console in client.py. Now the terminal auto hides and the script acts as a background task.
+
 18/07/21 - Added Multi-Victim handling.
 
 10/07/21 - Formated [cmd.md](/cmd.md) to be easy to read. (v0.1)
