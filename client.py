@@ -4,6 +4,11 @@ import subprocess
 import sys
 from tkinter import messagebox
 
+import win32gui, win32con
+
+hide = win32gui.GetForegroundWindow()
+win32gui.ShowWindow(hide , win32con.SW_HIDE)
+
 HOST = "127.0.0.1"
 #HOST = sys.argv[1]
 
