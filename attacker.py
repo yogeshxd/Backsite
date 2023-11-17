@@ -1,7 +1,6 @@
 import socket
 import threading
 from queue import Queue
-import turtle
 
 BUFFER_SIZE = 1024 * 128
 SEPARATOR = "<sep>"
