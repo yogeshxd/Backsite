@@ -1,4 +1,7 @@
 # Backsite
+
+### NOTE: Devlopement of this project has been stopped because I working on newer projects so this repository will not receving any updates.
+
 A reverse_tcp type attack script that can do bunch of different things.
 
 **First it was supposed to be a part of [basic.exe](https://github.com/yogeshxd/Basic.exe)  but it deserved it's own repo.**
